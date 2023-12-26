@@ -1,2 +1,2 @@
-# amazing
-Easy navigation to various software dev tools
+# Git Hub Cheatsheets
+https://github.com/arslanbilal/git-cheat-sheet
